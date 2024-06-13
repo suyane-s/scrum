@@ -5,7 +5,7 @@
 -***Scrum Master***
 
  -  É o responsável por garantir que a metodologia Scrum seja aplicada corretamente em um projeto de desenvolvimento de software.
-![alt texto](![alt text](image-6.png))
+![alt text](image-6.png)
 
 
 -***Product owner***
